@@ -1,0 +1,16 @@
+title,abstract,word_count
+Neural Text Normalization for Converting Informal Text to Standard Form,We develop a neural model that converts informal social media text to standard written form for downstream NLP processing.,19
+Cloud Resource Allocation Optimization Using Deep Reinforcement Learning,"This work applies deep reinforcement learning to optimize cloud computing resource allocation, reducing costs while meeting service level agreements.",19
+Semi-Supervised Learning for Image Classification with Consistency Regularization,We improve semi-supervised image classification by enforcing consistency between model predictions on original and augmented unlabeled images.,17
+Detecting Hate Speech in Code-Mixed Social Media Text,This study develops models for detecting hate speech in code-mixed social media content that combines multiple languages in single posts.,20
+Structure from Motion Using Deep Learning for 3D Scene Reconstruction,We combine traditional structure from motion with deep learning features to improve 3D reconstruction accuracy from unordered image collections.,19
+Personalized Nutrition Recommendation Using Knowledge Graphs and User Preferences,This paper builds a personalized nutrition system that combines food knowledge graphs with individual dietary preferences and health goals.,19
+Training Deep Networks with Noisy Labels Using Loss Correction Methods,We propose loss correction techniques that enable accurate deep network training when a portion of training labels are corrupted or incorrect.,21
+Extractive Summarization of Legal Documents Using Sentence Classification,"This work develops a sentence classification approach for extractive summarization of legal case documents, identifying key precedent-setting sentences.",18
+Autonomous Exploration Mapping Using Gaussian Processes,"We use Gaussian process regression for autonomous robot exploration, building informative maps of unknown environments with minimal traversal.",18
+Multi-Hop Question Answering Over Knowledge Bases Using Reinforcement Learning,This study trains agents using reinforcement learning to perform multi-hop reasoning over knowledge bases for complex question answering.,18
+Skin Lesion Classification Using Ensemble Deep Learning and Transfer Learning,We combine multiple pretrained CNN models in an ensemble approach for classifying skin lesions from dermatoscopic images.,17
+Privacy Risks in Language Models: Extracting Training Data Through Prompting,This paper demonstrates that large language models can inadvertently memorize and regurgitate sensitive training data through carefully crafted prompts.,19
+Real-Time Hand Gesture Recognition Using Depth Cameras and Neural Networks,We develop a real-time hand gesture recognition system using depth camera input and lightweight neural networks for human-computer interaction.,19
+Optimizing Warehouse Robot Routing Using Ant Colony Algorithms,"This work applies ant colony optimization to warehouse robot path planning, reducing order fulfillment times in large distribution centers.",19
+Unsupervised Domain Adaptation for Semantic Segmentation of Urban Scenes,We propose an unsupervised method for adapting semantic segmentation models trained on synthetic data to real urban street scenes.,19

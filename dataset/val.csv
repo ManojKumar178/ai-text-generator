@@ -1,0 +1,16 @@
+title,abstract,word_count
+Predicting Student Dropout Using Machine Learning on Academic Records,This study develops machine learning models that predict university student dropout risk using academic performance and engagement data.,18
+Multilingual Named Entity Recognition with a Single Neural Model,"We train a single neural model for named entity recognition in 40 languages simultaneously, outperforming language-specific baselines.",17
+Adversarial Example Detection Using Local Intrinsic Dimensionality,This paper proposes using local intrinsic dimensionality to detect adversarial examples in neural network inputs at inference time.,18
+Topic Modeling for Research Trend Analysis Using Dynamic Embeddings,We develop dynamic embedding-based topic models that track the evolution of research topics in scientific literature over time.,18
+Sim-to-Real Transfer for Robotic Grasping Using Domain Randomization,This work enables zero-shot sim-to-real transfer of robotic grasping policies by randomizing simulation parameters during training.,16
+Automatic Music Transcription from Audio Using Convolutional Neural Networks,We design a CNN-based system that transcribes piano music from audio recordings into symbolic MIDI representations.,16
+Heart Disease Prediction from Electronic Health Records Using Gradient Boosting,This study applies gradient boosting methods to electronic health records for early prediction of coronary heart disease risk.,18
+Understanding Attention Patterns in Transformer Models for Code Generation,We analyze attention patterns in code-generating transformers to understand how models attend to different parts of natural language specifications.,19
+Few-Shot Object Detection Using Prototype-Based Meta-Learning,This paper introduces a prototype-based meta-learning approach for detecting novel object categories with only a few training examples per class.,20
+Generative Adversarial Networks for Data Augmentation in Medical Imaging,"We use GANs to synthesize realistic medical images for training data augmentation, improving classifier performance on small datasets.",18
+Question Generation from Text for Educational Assessment,This work develops a neural question generation system that creates educational assessment items from textbook content.,16
+Cough Sound Analysis for COVID-19 Screening Using Deep Learning,We develop a deep learning model that screens for COVID-19 from cough sound recordings using spectral features and temporal patterns.,20
+Optimizing Hyperparameters of Deep Networks Using Bayesian Optimization,"This study applies Bayesian optimization to efficiently tune deep neural network hyperparameters, reducing search time by 80 percent.",18
+Skeleton-Based Action Recognition Using Graph Convolutional Networks,We model human skeleton sequences as graphs and apply graph convolutional networks for action recognition in video surveillance.,18
+Cross-Domain Recommendation Systems Using Adversarial Learning,This paper proposes adversarial learning methods to improve recommendation systems when user behavior differs across domains.,16
