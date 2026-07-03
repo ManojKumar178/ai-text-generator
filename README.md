@@ -1,4 +1,4 @@
-Trustworthy AI Text Generator
+**Trustworthy AI Text Generator**
 Evaluating the trustworthiness of a simple text generation model (t5-small) for academic title generation.
 
 https://colab.research.google.com/assets/colab-badge.svg
