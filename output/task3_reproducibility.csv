@@ -1,0 +1,6 @@
+Decoding Method,Exact-Match Rate,Near-Duplicate Rate,Stability
+Greedy,100%,100%,High
+Temperature 0.7,13%,33%,Low
+Temperature 1.0,10%,15%,Low
+Temperature 1.3,10%,10%,Low
+Top-k (k=10),10%,14%,Low

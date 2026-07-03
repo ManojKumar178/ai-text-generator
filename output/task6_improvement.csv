@@ -1,0 +1,16 @@
+Example,Before (Temp 1.0),Before Label,After (Greedy),After Label
+1,based on a common sense. the study proposes joint models for intent de...,Partially Grounded,this study proposes joint models for intent detection and slot filling...,Grounded
+2,knowledge distillation techniques transfer capabilities from large lan...,Grounded,knowledge distillation techniques transfer capabilities from large lan...,Grounded
+3,article develops multi-objective optimization algorithms. neural archi...,Hallucinated,this paper develops multi-objective optimization algorithms for neural...,Grounded
+4,neural radiance fields are applied to view synthesis. resulting imager...,Hallucinated,neural radiance fields are applied to view synthesis. we generate phot...,Partially Grounded
+5,arbitrary object categories defined by natural language. a study is to...,Hallucinated,open-vocabulary object detection methods identify arbitrary object cat...,Grounded
+6,a deep learning model provides insights into predictive maintenance. t...,Hallucinated,deep learning models for predictive maintenance in manufacturing. fore...,Grounded
+7,a paper containing multiple document summarization is called “transfor...,Hallucinated,this work applies transformer models to query-focused multi-document s...,Grounded
+8,proposal for real-time object detection on edge devices. based on comp...,Partially Grounded,we propose efficient neural network architectures for real-time object...,Grounded
+9,study identifies techniques employed to conduct visual representation ...,Hallucinated,study investigates self-supervised learning methods for visual represe...,Grounded
+10,present findings for the summarization of text summarization. research...,Hallucinated,we compare extractive and abstract text summarization methods. we prop...,Partially Grounded
+11,uncertainty-aware models of autonomous driving perception to predict u...,Grounded,this paper develops uncertainty-aware deep learning models for autonom...,Grounded
+12,visual-language pretraining objectives learn joint representations of ...,Hallucinated,visual-language pretraining objectives learn joint representations of ...,Grounded
+13,class activation maps can predict bounding boxes.,Partially Grounded,class activation map techniques for weakly supervised object localizat...,Grounded
+14,we explore zero-shot transfer learning methods to implement cross-doma...,Partially Grounded,cross-domain image classification is a tool for cross-domain image cla...,Partially Grounded
+15,created to convert informal text to a written form for downstream NLP ...,Partially Grounded,neural model converts informal social media text to standard written f...,Partially Grounded
