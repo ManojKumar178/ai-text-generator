@@ -6,7 +6,6 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![HuggingFace](https://img.shields.io/badge/🤗-Transformers-yellow.svg)](https://huggingface.co/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
@@ -209,9 +208,6 @@ Matplotlib, Seaborn
 NLTK
 Rouge-Score
 Sentence-Transformers
-```
-
-Full list in [`requirements.txt`](requirements.txt)
 
 ---
 
